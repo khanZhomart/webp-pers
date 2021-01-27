@@ -1,0 +1,233 @@
+.delimiter {
+    width: 100%;
+    height: 100px;
+
+    background-color: 50px;
+}
+
+.part1 {
+}
+
+.text-p1 {
+    position: relative;
+    top: 150px;
+}
+
+.navbar {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.navbar-brand {
+    font-size: 40px !important;
+}
+
+.navbar-nav {
+    margin-top: 5px;
+    font-size: 25px !important;
+}
+
+.greeting {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.greeting2 {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 50px;
+
+    position: absolute;
+    margin-left: 300px;
+    top: 340px;
+}
+
+.hello-box {
+    width: 150px;
+    height: 20px;
+
+    position: absolute;
+    margin-left: 300px;
+    top: 270px;
+
+}
+
+.soft-engr {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 25px;
+
+    position: absolute;
+    margin-left: 300px;
+    top: 425px;
+}
+
+.word1 {
+    font-weight: 700;
+}
+
+.first-pic {
+    width: 400px;
+    height: auto;
+
+    position: relative;
+    margin-left: 750px;
+
+    filter: brightness(1.22);
+}
+
+.part2 {
+    width: 100%;
+    height: 550px;
+
+    background-color: #222831;
+}
+
+#about-me {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+
+    position: relative;
+}
+
+.about-me-box {
+    position: relative;
+    margin-left: 300px;
+    top: 270px;
+    text-align: center;
+
+    width: 270px;
+    height: 80px;
+
+}
+
+.about-text1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+
+    position: relative;
+    margin-left: 120px;
+    top: 220px;
+}
+
+.shym-text {
+    font-weight: 700;
+}
+
+.about-text2 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+
+    position: relative;
+    margin-left: 120px;
+    top: 300px;
+}
+
+.edu {
+    width: 100%;
+    height: 700px;
+
+    position: relative;
+
+    background-image: url(images/aitu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.part3 {
+    width: 100%;
+    height: 550px;
+
+    background-color: #222831;
+}
+
+.student {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+
+    position: relative;
+    margin-left: 300px;
+    top: 350px;
+}
+
+.stud-about1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+
+    position: relative;
+    margin-left: 100px;
+    top: 300px;
+}
+
+.stud-about2 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+
+    position: relative;
+    margin-left: 100px;
+    top: 320px;
+}
+
+.stud-about3 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+
+    position: relative;
+    margin-left: 100px;
+    top: 340px;
+}
+
+.hobbies {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+#contacts {
+    width: 100%;
+    height: 350px;
+
+    background-color: #222831;
+}
+
+.cont1 {
+    position: relative;
+    margin-left: 200px;
+    top: 100px;
+    
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+}
+
+.cont2 {
+    position: relative;
+    margin-left: 200px;
+    top: 150px;
+    
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+}

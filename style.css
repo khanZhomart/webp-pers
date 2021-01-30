@@ -1,12 +1,12 @@
+body {
+    overflow-x: hidden;
+}
+
 .delimiter {
     width: 100%;
     height: 100px;
 
     background-color: 50px;
-}
-
-body {
-    overflow-x: hidden;
 }
 
 .part1 {
@@ -78,7 +78,7 @@ body {
     position: relative;
     margin-left: 750px;
 
-    filter: brightness(1.22);
+    filter: drop-shadow(60px 40px 55px rgb(25, 25, 25, 0.5)) brightness(1.22);
 }
 
 .part2 {
